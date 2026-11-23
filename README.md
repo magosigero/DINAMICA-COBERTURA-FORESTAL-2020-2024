@@ -61,4 +61,5 @@ Pilares Técnicos y Metodológicos:
   - [Extracción de índices para calibración de umbrales (GEE)](https://code.earthengine.google.com/07ac4bb3a41dd97fbe9c9c0afc7c9861)
   - [Calibración de parámetros de ganancias v8 (Google Colab)](https://colab.research.google.com/drive/1yUQGXr6IiBvs2vLAhMI0NrbA5kCJd6ir?usp=sharing)
   - [Detección de ganancias 2020–2022 (GEE)](https://code.earthengine.google.com/623f59573e3bcd275d61f6de18a5560d)
+- **Centroides de muestras AREA2 (ArcPy):** [`anexos/Centroides_Muestras_Area2.py`](anexos/Centroides_Muestras_Area2.py) — Generación de centroides y buffers de 5 m para muestras generadas en AREA2 evitando efecto borde.
 
