@@ -54,6 +54,8 @@ Repositorio técnico con los códigos, parámetros y flujos geoespaciales utiliz
 | **Depuración y UMM** | ArcGIS Pro / ArcPy | Exclusión de usos no forestales (MAGA) y bosque seco; filtrado espacial a **UMM ≥ 0.5 ha** (5 píxeles). |
 | **Validación y áreas** | AREA2 · Collect Earth Online | Muestreo aleatorio estratificado (Olofsson et al., 2014) interpretado con Sentinel-2 y Planet. |
 
+![Figura 3. Ruta metodológica de dinámica de cobertura forestal](assets/img/ruta_metodologica.png)
+
 ## Scripts y Anexos
 
 | Anexo | Archivo | Propósito | Enlaces externos |
