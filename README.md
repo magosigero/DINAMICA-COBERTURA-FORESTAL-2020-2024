@@ -1,5 +1,3 @@
-<h1 align="center">DINAMICA-COBERTURA-FORESTAL-2020-2024</h1>
-
 <p align="center">
   <strong>Mapa de Dinámica de la Cobertura Forestal de Guatemala (2020–2022 y 2022–2024)</strong><br/>
   <sub>Grupo Interinstitucional de Monitoreo de Bosques y Uso de la Tierra (GIMBUT)</sub>
